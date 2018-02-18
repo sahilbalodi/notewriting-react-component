@@ -1,0 +1,12 @@
+#row5{
+  padding: 10px;
+height: 100%;
+display: flex;
+flex-flow: row;
+grid:1;
+}
+#textarea{
+  width: 100%;
+  padding: 20px;
+height: 600px;
+}

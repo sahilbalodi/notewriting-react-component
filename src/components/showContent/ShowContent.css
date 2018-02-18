@@ -1,0 +1,17 @@
+.box{
+  border: 1px solid black ;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+height: 100vh;
+flex-flow: column;
+text-align: center;
+}
+#outerbox{
+  display: flex;
+  flex-direction: column;
+height: 100vh;
+border: 1px solid black;
+background-color: #E9E9EF;
+flex-flow: column;
+}

@@ -1,0 +1,21 @@
+#form{
+  display: flex;
+  flex-direction: column;
+flex-grow: 1;
+height: 100vh;
+  justify-content: space-between;
+border: 1px solid black;
+background-color: #E9E9EF;
+}
+#display-footer-button{
+  border: 1px solid black ;
+height:200px;
+}
+#outerbox{
+  display: flex;
+  flex-direction: column;
+height: 100vh;
+border: 1px solid black;
+background-color: #E9E9EF;
+flex-flow: column;
+}
